@@ -1,7 +1,7 @@
 OpenBillingSystem
 =================
 
-With the permission of my former supervisor, I'm allowed to work on the billing system & implement the code of what I learned in the past intern experience as a open project.
+With the permission of my former supervisor, I'm allowed to work on the billing system & implement the code of what I learned in the past intern experience as an open project.
 
 This is a on going project. There are 3 Big part of the system:
 
